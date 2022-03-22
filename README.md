@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRIYAMBI HIRAN</h1>
-<h3 align="center">First year student seeking diverse professional exposure in the domain of Technology and Human Resources to brush up my skills and add credits to my academic background. A passionate App developer and learning new skills daily.</h3><br>
+<h3 align="center">Computer Engineering student seeking diverse professional exposure in the domain of Technology and Human Resources to brush up my skills and add credits to my academic background. A passionate App developer and learning new skills daily.</h3><br>
 
 <h3 align="left">Talking about Myself:</h2>
 <h4 align="left">~I love exploring new stuff.</h4>
